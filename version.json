@@ -1,16 +1,17 @@
 {
     "version": "v0.0.8-Zouwu-Alpha4",
-    "mirrors":[
-        {
+    "abstract":"",
+    "mirrors":{
+        "gitee":{
             "name":"Github Pages",
-            "install_url": "https://copytranslator.github.io/guide/download.html#%E4%B8%8B%E8%BD%BD",
-            "update_log": "https://copytranslator.github.io/changelogs/0.0.8.html"
+            "installUrl": "https://copytranslator.github.io/guide/download.html#%E4%B8%8B%E8%BD%BD",
+            "updateLog": "https://copytranslator.github.io/changelogs/0.0.8.html"
         },
-        {
+        "github":{
             "name":"Gitee Pages",
-            "install_url": "https://copytranslator.gitee.io/guide/download.html#%E4%B8%8B%E8%BD%BD",
-            "update_log": "https://copytranslator.gitee.io/changelogs/0.0.8.html"
+            "installUrl": "https://copytranslator.gitee.io/guide/download.html#%E4%B8%8B%E8%BD%BD",
+            "updateLog": "https://copytranslator.gitee.io/changelogs/0.0.8.html"
         }
-    ],
+    },
     "level": 4
 }
