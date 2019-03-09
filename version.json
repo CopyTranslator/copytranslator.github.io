@@ -2,12 +2,12 @@
     "version": "v0.0.8-Zouwu-Alpha4",
     "abstract":"",
     "mirrors":{
-        "gitee":{
+        "github":{
             "name":"Github Pages",
             "installUrl": "https://copytranslator.github.io/guide/download.html#%E4%B8%8B%E8%BD%BD",
             "updateLog": "https://copytranslator.github.io/changelogs/0.0.8.html"
         },
-        "github":{
+        "gitee":{
             "name":"Gitee Pages",
             "installUrl": "https://copytranslator.gitee.io/guide/download.html#%E4%B8%8B%E8%BD%BD",
             "updateLog": "https://copytranslator.gitee.io/changelogs/0.0.8.html"
