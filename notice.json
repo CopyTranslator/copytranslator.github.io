@@ -1,6 +1,8 @@
 {
-    "start":"",
-    "end":"",
-    "content":"",
-    "id":""
+    "message":"nothing",
+    "buttons":[{
+        "label":"nothing",
+        "ref":"https://electronjs.org/docs/api/dialog"
+    }],
+    "id":"hello"
 }
