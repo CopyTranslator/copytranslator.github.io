@@ -1,6 +1,6 @@
 {
-    "version": "v0.0.8 Zouwu Alpha9",
-    "abstract":"fix some bugs",
+    "version": "v0.0.8 Zouwu Beta1",
+    "abstract":"临时性修复Alpha5以来的多余换行问题",
     "mirrors":{
         "github":{
             "name":"Github Pages",
