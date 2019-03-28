@@ -1,6 +1,6 @@
 {
-    "version": "v0.0.8 Zouwu Alpha5",
-    "abstract":"",
+    "version": "v0.0.8 Zouwu Alpha9",
+    "abstract":"fix some bugs",
     "mirrors":{
         "github":{
             "name":"Github Pages",
