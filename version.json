@@ -1,6 +1,6 @@
 {
-    "version": "v0.0.8 Zouwu RC1",
-    "abstract":"v0.0.8 Zouwu 正式发布！",
+    "version": "v8.2.0 Zouwu",
+    "abstract":"v8.2.0 Zouwu 正式发布！修复大量问题",
     "mirrors":{
         "github":{
             "name":"Github Pages",
