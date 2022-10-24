@@ -6,6 +6,11 @@
 
 ## v10 破晓
 
+### [v10.2.2 改善体验及修复问题](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v10.2.2)
+- [copytranslator-setup-10.2.2.exe](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.2.2/copytranslator-setup-10.2.2.exe)
+- [copytranslator-10.2.2-win.zip](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.2.2/copytranslator-10.2.2-win.zip)
+- [CopyTranslator-PaddleOCR-json.v1.2.1.7z](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.1.0/CopyTranslator-PaddleOCR-json.v1.2.1.7z): [可选]用来配合离线OCR，参见[此处说明](/changelogs/v10#v10.1.0)
+
 ### [v10.1.0](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v10.1.0)
 - [copytranslator.Setup.10.1.0.exe](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.1.0/copytranslator.Setup.10.1.0.exe)
 - [copytranslator-10.1.0-win.zip](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.1.0/copytranslator-10.1.0-win.zip)
