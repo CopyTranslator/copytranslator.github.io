@@ -33,11 +33,21 @@
 ## 谷歌翻译退出中国市场的解决方案
 
 ### 解决方案1-修改hosts
-目前暂时可以通过修改 IP 的方式连接到国内的谷歌翻译，但是请注意：谷歌翻译正在逐步关闭国内服务器，所以 IP 地址会不断失效，这也导致会出现修改 hosts / IP 之后过了一段时间（可能是几天，也可能是几个月）谷歌翻译就又不能用了的情况。
+目前暂时可以通过修改 IP 的方式连接到国内的谷歌翻译，但是请注意：谷歌翻译正在逐步关闭国内服务器，所以 IP 地址会不断失效，这也导致会出现修改 hosts / IP 之后过了一段时间（可能是几天，也可能是几个月）谷歌翻译就又不能用了的情况。详细可以参考[划词翻译](https://hcfy.app/)作者写的[说明](https://hcfy.app/blog/2022/09/28/ggg#%E6%96%B9%E6%A1%88-b%E4%BF%AE%E6%94%B9-hosts--ip%E6%97%A0%E9%9C%80%E6%A2%AF%E5%AD%90)
 ### 解决方案2-使用网络代理
 在梯子内将 `translate.googleapis.com` 设为走代理（PROXY）即可。不同的软件有不同的设置方式，你需要阅读你所使用的软件的文档或者通过搜索引擎查询该如何设置。
 
 你也可以给梯子开全局模式，也就是所有域名都走国外IP。但是，国内网站的访问速度会因此变慢，所以还是建议花点时间研究下如何添加代理规则。
+
+### 解决方案3-使用谷歌翻译API镜像
+可以在copytranslator的设置页面设置，默认为`https://gtranslate.cdn.haah.net`，将其置空则回退到使用原版谷歌翻译API`https://translate.googleapis.com`。copytranslator在10.2.3版本后将默认启用谷歌翻译API镜像进行翻译。
+
+### 解决方案4-使用开源翻译站点提供的谷歌翻译
+
+目前尚未实现，但已在计划之中。
+
+- [Lingva Translate](https://github.com/thedaviddelta/lingva-translate)
+- [SimplyTranslate](https://simple-web.org/projects/simplytranslate.html)
 
 ## 测试谷歌翻译是否恢复正常
 
