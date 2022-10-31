@@ -11,9 +11,9 @@
 可以在copytranslator的设置页面设置，默认为`https://gtranslate.cdn.haah.net`，将其置空则回退到使用原版谷歌翻译API`https://translate.googleapis.com`。
 
 ### 解决方案2-使用开源翻译站点提供的谷歌翻译
-在copytranslator设置界面将`Google翻译源`切换为`simply`，则应该可以正常使用谷歌翻译
+10.2.3以后可以在copytranslator设置界面将`Google翻译源`切换为`simply`，则应该可以正常使用谷歌翻译
 
-- [SimplyTranslate](https://simple-web.org/projects/simplytranslate.html)
+<!-- - [SimplyTranslate](https://simple-web.org/projects/simplytranslate.html) -->
 <!-- - [Lingva Translate](https://github.com/thedaviddelta/lingva-translate) -->
 
 ### 解决方案3-修改hosts
