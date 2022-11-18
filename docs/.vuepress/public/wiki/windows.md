@@ -6,6 +6,11 @@
 
 ## v10 破晓
 
+### [v10.2.4 拖拽复制白名单及棵岩翻译引擎](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v10.2.4)
+- [copytranslator-setup-10.2.4.exe](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.2.4/copytranslator-setup-10.2.4.exe)
+- [copytranslator-10.2.4-win.zip](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.2.4/copytranslator-10.2.4-win.zip)
+- [CopyTranslator-PaddleOCR-json.v1.2.1.7z](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.1.0/CopyTranslator-PaddleOCR-json.v1.2.1.7z): [可选]用来配合离线OCR，参见[此处说明](/changelogs/v10#v10.1.0)
+
 ### [v10.2.3 进一步改善谷歌翻译可用性](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v10.2.3)
 - [copytranslator-setup-10.2.3.exe](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.2.3/copytranslator-setup-10.2.3.exe)
 - [copytranslator-10.2.3-win.zip](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.2.3/copytranslator-10.2.3-win.zip)

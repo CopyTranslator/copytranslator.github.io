@@ -83,6 +83,7 @@ module.exports = {
         collapsable: false,
         children: [
           '',
+          '10.2.4',
           '10.0.0',
           '9.0.0',
           '8.4.0',
