@@ -2,8 +2,8 @@
 
 随着CopyTranslator的更新，功能也不断丰富，不同版本之间的差异也逐渐显著，因此不同版本的使用指南是分开的，请根据您使用的版本来选择使用指南。
 
-- [CopyTranslator v11 扶摇](/guide/11.0.0)：这是一次创造性的大更新，用户使用体验可以说是飞跃，只能说非常爽
-- [CopyTranslator v10 破晓](/guide/10.2.4)
+- ~~[CopyTranslator v11 扶摇](/guide/11.0.0)：(尚未发布)这是一次创造性的大更新，用户使用体验可以说是飞跃，只能说非常爽~~
+- [CopyTranslator v10 破晓](/guide/10.2.4)：强大，较为稳定
 - [CopyTranslator v9 寒渐](/guide/9.0.0)
 - [CopyTranslator v8.4.0](/guide/8.4.0)
 - [CopyTranslator v8.3.0](/guide/8.3.0)
