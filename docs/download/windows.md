@@ -5,7 +5,7 @@
 
 **其他下载源**
 1. Github Release下载加速：[网站1](https://doget.nocsdn.com/#/), [网站2](https://d.serctl.com/)
-2. [Gitee](https://gitee.com/ylzheng/CopyTranslator/releases)
+2. [码云 Gitee](https://gitee.com/ylzheng/CopyTranslator/releases)
 3. [![](https://img.shields.io/sourceforge/dt/copytranslator.mirror?label=SourceForge&logo=sourceforge)](https://sourceforge.net/projects/copytranslator.mirror/files/)
 3. [蓝奏云](https://elliottzheng.lanzouy.com/b0bhgau3i) 密码:eo88
 
