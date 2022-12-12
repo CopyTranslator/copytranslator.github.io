@@ -3,6 +3,12 @@
 - 如果您出现兼容性问题，可以下载`compatible`版本
 - 点击版本标题可查看更新日志
 
+## v11 扶摇
+
+### [v11.0.0 用户体验大升级，快照机制快速切换，更多自定义](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v11.0.0)
+- [copytranslator-setup-11.0.0.exe](https://github.com/CopyTranslator/CopyTranslator/releases/download/v11.0.0/copytranslator-setup-11.0.0.exe)
+- [copytranslator-11.0.0-win.zip](https://github.com/CopyTranslator/CopyTranslator/releases/download/v11.0.0/copytranslator-11.0.0-win.zip)
+- [CopyTranslator-PaddleOCR-json.v1.2.1.7z](https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.1.0/CopyTranslator-PaddleOCR-json.v1.2.1.7z): [可选]用来配合离线OCR
 
 ## v10 破晓
 
