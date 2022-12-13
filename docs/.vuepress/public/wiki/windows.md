@@ -1,8 +1,3 @@
-### 注意事项
-- 虽然我这里列出来一堆，但是实际上能用的可能只有最新版
-- 如果您出现兼容性问题，可以下载`compatible`版本
-- 点击版本标题可查看更新日志
-
 ## v11 扶摇
 
 ### [v11.0.0 用户体验大升级，快照机制快速切换，更多自定义](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v11.0.0)
