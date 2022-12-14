@@ -1,20 +1,7 @@
-### 注意事项
-
-**初次打开后请手动允许copytranslator使用辅助功能，否则copytranslator将无法移动**
-
-![](https://s2.ax1x.com/2019/03/10/ApT0YT.png)
-![](https://s2.ax1x.com/2019/03/10/ApT6X9.png)
-
-- mac 版本如果无法启动，请尝试下载dmg版本，安装完成后，打开安全性与隐私，通用，允许打开这个app
-
-
-## Homebrew Cask
-
-可以使用 [Homebrew Cask](https://github.com/Homebrew/homebrew-cask) 安装
-
-```bash
-brew cask install copytranslator
-```
+## v11 扶摇 
+### [v11.0.0 用户体验大升级，快照机制快速切换，更多自定义](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v11.0.0)
+- [copytranslator-11.0.0.dmg](https://github.com/CopyTranslator/CopyTranslator/releases/download/v11.0.0/copytranslator-11.0.0.dmg)
+- [copytranslator-11.0.0-mac.zip](https://github.com/CopyTranslator/CopyTranslator/releases/download/v11.0.0/copytranslator-11.0.0-mac.zip)
 
 ## v9 寒渐
 
