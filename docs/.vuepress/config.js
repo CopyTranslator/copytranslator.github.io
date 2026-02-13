@@ -43,7 +43,7 @@ module.exports = {
       },
       {
         text: '更新日志',
-        link: '/changelogs/v11'
+        link: '/changelogs/v12'
       },
       {
         text: '用户生态',
@@ -83,6 +83,7 @@ module.exports = {
         collapsable: false,
         children: [
           '',
+          '12.0.0',
           '11.0.0',
           '10.2.4',
           '10.0.0',
@@ -97,6 +98,7 @@ module.exports = {
         title: "更新日志",
         collapsable: false,
         children: [
+          'v12',
           'v11',
           'v10',
           'v9',
