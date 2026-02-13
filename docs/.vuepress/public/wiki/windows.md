@@ -1,3 +1,8 @@
+## v12 知微
+### [v12.0.0 支持大模型 AI 翻译](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v12.0.0)
+- [copytranslator-setup-11.0.0.exe](https://github.com/CopyTranslator/CopyTranslator/releases/download/v12.0.0/copytranslator-setup-12.0.0.exe)
+- [copytranslator-11.0.0-win.zip](https://github.com/CopyTranslator/CopyTranslator/releases/download/v12.0.0/copytranslator-12.0.0-win.zip)
+
 ## v11 扶摇
 
 ### [v11.0.0 用户体验大升级，快照机制快速切换，更多自定义](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v11.0.0)
