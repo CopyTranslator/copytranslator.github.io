@@ -1,4 +1,8 @@
 ## v12 知微
+### [v12.1.0 更多引擎可用性与网络代理](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v12.1.0)
+- [copytranslator-setup-12.1.0.exe](https://github.com/CopyTranslator/CopyTranslator/releases/download/v12.1.0/copytranslator-setup-12.1.0.exe)
+- [copytranslator-12.1.0-win.zip](https://github.com/CopyTranslator/CopyTranslator/releases/download/v12.1.0/copytranslator-12.1.0-win.zip) 
+
 ### [v12.0.0 支持大模型 AI 翻译](https://github.com/CopyTranslator/CopyTranslator/releases/tag/v12.0.0)
 - [copytranslator-setup-12.0.0.exe](https://github.com/CopyTranslator/CopyTranslator/releases/download/v12.0.0/copytranslator-setup-12.0.0.exe)
 - [copytranslator-12.0.0-win.zip](https://github.com/CopyTranslator/CopyTranslator/releases/download/v12.0.0/copytranslator-12.0.0-win.zip)
